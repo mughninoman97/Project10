@@ -1,21 +1,23 @@
 # Project No. 10
 
-This is my 10th project of Web Development. The project is designed in such a way that it works on large(Desktop & Laptop) as well as small screens(Mobile Devices). 
+This is my _**10th project**_ of Web Development. The project is designed in such a way that it works on large(Desktop & Laptop) as well as small screens(Mobile Devices). 
+
+> [Click the live link here](https://project-10-by-noman.vercel.app/)
 
 FULL WEBPAGE:
-![Project2](sc/full.png "proj2 image")
+![Project10](sc/full.png "proj10 image")
 
 NAVBAR:
-![Project2](sc/nav.PNG "proj2 image")
+![Project10](sc/nav.PNG "proj10 image")
 
 BODY:
-![Project2](sc/body.PNG "pro21 image")
+![Project10](sc/body.PNG "pro10 image")
 
 
 ## Technologies Used
 
-![Mascot](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg "mascot logo")
-![Mascot](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg "mascot logo")
+![html](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg "css ")
+![css](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg "css ")
 
 
 ## What I leaned
